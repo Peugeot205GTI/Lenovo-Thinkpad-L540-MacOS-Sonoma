@@ -7,10 +7,10 @@
 
 | Category  | Component                            |
 | --------- | ------------------------------------ |
-| CPU       | Intel Core i5-4210M                 |
+| CPU       | Intel Core i3-4000M                  |
 | GPU       | Intel HD Graphics 4600               |
-| SSD       | Goodram SSD 120GB               |
-| Memory    | 16GB DDR3 1600Mhz                     |
+| SSD       | Seagate 500gb 7200 rpm HDD           |
+| Memory    | 8GB DDR3 1333Mhz                     |
 | WiFi & BT | Intel Wireless-N 7260                |
 
 # Screenshots
@@ -27,7 +27,6 @@
 <summary><strong>What's not working</strong></summary>
 </br>
 
-- Audio Jack
 - VGA
 - Sleep
 - Realtek Card Reader
